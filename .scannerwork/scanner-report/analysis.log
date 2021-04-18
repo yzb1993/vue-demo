@@ -1,0 +1,162 @@
+Environment variables:
+  - =D:=D:\Workspaces\vue-demo
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\Administrator\AppData\Roaming
+  - CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_5412_PUMRZJQTHGBXNOGF
+  - CLASSPATH=.;D:\Program Files\Java\jdk1.8.0_281\lib;D:\Program Files\Java\jdk1.8.0_281\lib\tools.jar
+  - COLORTERM=truecolor
+  - COMPUTERNAME=WIN-C042B85T8LD
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+  - FPS_BROWSER_USER_PROFILE_STRING=Default
+  - GIT_ASKPASS=d:\Program Files (x86)\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Administrator
+  - JAVA_EXEC="D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin\..\jre
+  - LANG=zh_CN.UTF-8
+  - LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+  - LOGONSERVER=\\WIN-C042B85T8LD
+  - NUMBER_OF_PROCESSORS=16
+  - ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+  - OS=Windows_NT
+  - OneDrive=C:\Users\Administrator\OneDrive
+  - OneDriveConsumer=C:\Users\Administrator\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 167 Stepping 1, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=a701
+  - PROJECT_HOME=D:\Workspaces\vue-demo
+  - PROMPT=$P$G
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\nodejs\;D:\Program Files\Git\cmd;D:\Packages\flutter\bin;D:\Program Files (x86)\Microsoft VS Code\bin;D:\Program Files\Java\jdk1.8.0_281\bin;D:\Program Files\Java\jdk1.8.0_281\jre\bin;D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin;D:\Program Files\Sonar\sonarqube-7.8\bin\windows-x86-64;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Roaming\npm;
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_QUBE_HOME=D:\Program Files\Sonar\sonarqube-7.8
+  - SONAR_SCANNER_HOME=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\Administrator\AppData\Local\Temp
+  - TERM_PROGRAM=vscode
+  - TERM_PROGRAM_VERSION=1.54.3
+  - TMP=C:\Users\Administrator\AppData\Local\Temp
+  - USERDOMAIN=WIN-C042B85T8LD
+  - USERDOMAIN_ROAMINGPROFILE=WIN-C042B85T8LD
+  - USERNAME=Administrator
+  - USERPROFILE=C:\Users\Administrator
+  - VSCODE_GIT_ASKPASS_MAIN=d:\Program Files (x86)\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+  - VSCODE_GIT_ASKPASS_NODE=D:\Program Files (x86)\Microsoft VS Code\Code.exe
+  - VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-44aca5d6ad-sock
+  - scriptdir=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin
+  - use_embedded_jre=true
+  - windir=C:\Windows
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=GBK
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin\..\lib\sonar-scanner-cli-4.6.0.2311.jar
+  - java.class.version=55.0
+  - java.home=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\jre
+  - java.io.tmpdir=C:\Users\Administrator\AppData\Local\Temp\
+  - java.library.path=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\nodejs\;D:\Program Files\Git\cmd;D:\Packages\flutter\bin;D:\Program Files (x86)\Microsoft VS Code\bin;D:\Program Files\Java\jdk1.8.0_281\bin;D:\Program Files\Java\jdk1.8.0_281\jre\bin;D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin;D:\Program Files\Sonar\sonarqube-7.8\bin\windows-x86-64;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Roaming\npm;;.
+  - java.runtime.name=OpenJDK Runtime Environment
+  - java.runtime.version=11.0.3+7
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=11
+  - java.vendor=AdoptOpenJDK
+  - java.vendor.url=https://adoptopenjdk.net/
+  - java.vendor.url.bug=https://github.com/AdoptOpenJDK/openjdk-build/issues
+  - java.vendor.version=AdoptOpenJDK
+  - java.version=11.0.3
+  - java.version.date=2019-04-16
+  - java.vm.compressedOopsMode=Zero based
+  - java.vm.info=mixed mode
+  - java.vm.name=OpenJDK 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=11
+  - java.vm.vendor=AdoptOpenJDK
+  - java.vm.version=11.0.3+7
+  - jdk.debug=release
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=D:\Workspaces\vue-demo
+  - scanner.home=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.library.path=D:\Program Files\Sonar\sonar-scanner-4.6.0.2311-windows\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=GBK
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=ms936
+  - sun.stdout.encoding=ms936
+  - user.country=CN
+  - user.dir=D:\Workspaces\vue-demo
+  - user.home=C:\Users\Administrator
+  - user.language=zh
+  - user.name=Administrator
+  - user.script=
+  - user.timezone=Asia/Shanghai
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.14.0.3086 (python)
+  - SonarCSS 1.1.0.993 (cssfamily)
+  - GitHub Authentication for SonarQube 1.5.0.870 (authgithub)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.1.2000 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.2.1.7778 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 7.14.0.8411 (csharp)
+  - SonarJava 5.13.0.18197 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - SonarHTML 3.1.0.1615 (web)
+  - Git 1.8.0.1574 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SAML 2.0 Authentication for SonarQube 1.1.0.181 (authsaml)
+  - SonarPHP 3.1.1.4762 (php)
+  - SonarTS 1.9.0.3766 (typescript)
+  - SonarVB 7.14.0.8411 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AXjf9JMKfHL0o22AjkjL
+  - sonar.core.startTime=2021-04-18T23:39:48+0800
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.login=******
+  - sonar.projectBaseDir=D:\Workspaces\vue-demo
+  - sonar.projectKey=vue-demo
+  - sonar.projectName=Vue demo
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.0.2311
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=D:\Workspaces\vue-demo\.scannerwork
